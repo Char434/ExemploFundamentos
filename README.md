@@ -1,6 +1,6 @@
 # Repositório de estudo dos Fundamentos de .NET
 Repositório criado para documentar os meus estudos dos Fundamentos de .NET
-======
+
 
     - Sintaxe e Tipos de Dados em C#
     - Tipos de Operadores em C#
