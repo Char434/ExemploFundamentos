@@ -1,0 +1,15 @@
+/Users/miguel/workspace/Aprendendo .NET e C#/Sintaxe e Tipos de Dados em C#/bin/Debug/net7.0/Sintaxe e Tipos de Dados em C#
+/Users/miguel/workspace/Aprendendo .NET e C#/Sintaxe e Tipos de Dados em C#/bin/Debug/net7.0/Sintaxe e Tipos de Dados em C#.deps.json
+/Users/miguel/workspace/Aprendendo .NET e C#/Sintaxe e Tipos de Dados em C#/bin/Debug/net7.0/Sintaxe e Tipos de Dados em C#.runtimeconfig.json
+/Users/miguel/workspace/Aprendendo .NET e C#/Sintaxe e Tipos de Dados em C#/bin/Debug/net7.0/Sintaxe e Tipos de Dados em C#.dll
+/Users/miguel/workspace/Aprendendo .NET e C#/Sintaxe e Tipos de Dados em C#/bin/Debug/net7.0/Sintaxe e Tipos de Dados em C#.pdb
+/Users/miguel/workspace/Aprendendo .NET e C#/Sintaxe e Tipos de Dados em C#/obj/Debug/net7.0/Sintaxe e Tipos de Dados em C#.csproj.AssemblyReference.cache
+/Users/miguel/workspace/Aprendendo .NET e C#/Sintaxe e Tipos de Dados em C#/obj/Debug/net7.0/Sintaxe e Tipos de Dados em C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miguel/workspace/Aprendendo .NET e C#/Sintaxe e Tipos de Dados em C#/obj/Debug/net7.0/Sintaxe e Tipos de Dados em C#.AssemblyInfoInputs.cache
+/Users/miguel/workspace/Aprendendo .NET e C#/Sintaxe e Tipos de Dados em C#/obj/Debug/net7.0/Sintaxe e Tipos de Dados em C#.AssemblyInfo.cs
+/Users/miguel/workspace/Aprendendo .NET e C#/Sintaxe e Tipos de Dados em C#/obj/Debug/net7.0/Sintaxe e Tipos de Dados em C#.csproj.CoreCompileInputs.cache
+/Users/miguel/workspace/Aprendendo .NET e C#/Sintaxe e Tipos de Dados em C#/obj/Debug/net7.0/Sintaxe e Tipos de Dados em C#.dll
+/Users/miguel/workspace/Aprendendo .NET e C#/Sintaxe e Tipos de Dados em C#/obj/Debug/net7.0/refint/Sintaxe e Tipos de Dados em C#.dll
+/Users/miguel/workspace/Aprendendo .NET e C#/Sintaxe e Tipos de Dados em C#/obj/Debug/net7.0/Sintaxe e Tipos de Dados em C#.pdb
+/Users/miguel/workspace/Aprendendo .NET e C#/Sintaxe e Tipos de Dados em C#/obj/Debug/net7.0/Sintaxe e Tipos de Dados em C#.genruntimeconfig.cache
+/Users/miguel/workspace/Aprendendo .NET e C#/Sintaxe e Tipos de Dados em C#/obj/Debug/net7.0/ref/Sintaxe e Tipos de Dados em C#.dll
